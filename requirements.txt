@@ -1,6 +1,6 @@
-torch
+torch==2.6.0
 omegaconf
-torchaudio
+torchaudio==2.6.0
 einops
 numpy
 transformers==4.49.0
@@ -17,3 +17,4 @@ sageattention
 psutil
 
 huggingface_hub
+
